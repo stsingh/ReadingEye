@@ -1,4 +1,4 @@
-//Original Author: ChungYi Fu(Kaohsiung, Taiwan), Edited by: Sahej Singh (Massachusetts Academy of Mathematics and Science at WPI)
+//Sahej Singh (Massachusetts Academy of Mathematics and Science at WPI), credit to Author: ChungYi Fu(Kaohsiung, Taiwan), for much of web server HTML
 //WIFI
 const char* ssid     = "";   //Network Name
 const char* password = "";   //Network Password
